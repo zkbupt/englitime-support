@@ -56,9 +56,10 @@
 
 ## 隐私政策 (Privacy Policy)
 
-我们非常重视您的个人信息和隐私安全。您可以点击下方链接查看完整的《隐私政策》。
+我们非常重视您的个人信息与权益保护。请点击下方链接查看完整文件：
 
-➡️ **[阅读《点滴英语隐私政策》](./privacy.html)** <br>
+➡️ **[阅读《用户协议》](./user-agreement.html)**  
+➡️ **[阅读《隐私政策》](./privacy-policy.html)** <br>
 <br>
 
 <div align="center">
